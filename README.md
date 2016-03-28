@@ -29,8 +29,8 @@ you can run the executables (as shown below).
 (future task)
 
 ## Tasks
-- [] Testing with [Catch](https://github.com/philsquared/Catch.git)
-- [] Implement bitwise operations for double and float.
+- [ ] Testing with [Catch](https://github.com/philsquared/Catch.git)
+- [ ] Implement bitwise operations for double and float.
 
 ## License
 MIT (see LICENSE)
