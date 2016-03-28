@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project(BitKit)
+include_directories(include)
+add_executable(BitKit "src/main.cpp")
+install(TARGETS BitKit DESTINATION "${PROJECT_SOURCE_DIR}/bin")

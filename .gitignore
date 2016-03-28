@@ -1,0 +1,40 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Cmake
+build/*
+bin/*
+
+# OS X Goodie DS_Store
+.DS_Store
+bin/.DS_Store
+build/.DS_Store
+include/.DS_Store
+src/.DS_Store
+tests/.DS_Store
